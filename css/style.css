@@ -1,0 +1,85 @@
+/* Add all your styles here */
+body {
+    background-color: #164A41;
+    font-family: Tahoma;
+}
+.sig{
+    width: 360px;
+    height: 750px;
+    margin: auto;
+    background-color: #4d774e;
+    border-radius:3px;
+}
+h1{
+    text-align: center ;
+    padding-top: 15px;
+    color: #ffffff;
+}
+h4{
+    text-align: center;
+    color: #ffffff;
+}
+form{
+    width:360px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    width: 80%;
+    padding: 7px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+    background-color: 	#E8E8E8;
+}
+label{
+  color: #ffffff;
+}
+input[type="Submit"]{
+    width: 305px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #f1b24a;
+    color: white;
+    font-size: 18px;
+}
+p{
+    text-align: center ;
+    padding-top: 20px;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.para-2{
+    text-align: center ;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+}
+.para-2 a{
+    color: white ;
+}
+select{
+  height:30px;
+  width: 85%;
+  margin: 10px 0 0 0;
+  min-height: 2em;
+  background-color: 	#E8E8E8;
+  border: 2px solid darblue;
+  border-radius: 6px;
+  color:rgb(0, 0, 0) ;
+  text-transform: uppercase ;
+}
+a{
+  color: #f1b24a;
+}
+
+.myfile{
+  text-transform: uppercase ;
+  color: #f1b24a;
+}
